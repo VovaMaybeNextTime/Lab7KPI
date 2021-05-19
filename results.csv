@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Twitch test","Get request with query param","SUCCESS","2021-05-19T18:47:28.948452+03:00[Europe/Kiev]","0.0","1.97"
+"Twitch test","Delete request","SUCCESS","2021-05-19T18:47:31.084464+03:00[Europe/Kiev]","0.0","0.77"
+"Twitch test","Put request","FAILURE","2021-05-19T18:47:31.85458+03:00[Europe/Kiev]","0.0","0.53"
+"Twitch test","Post request","SUCCESS","2021-05-19T18:47:32.39309+03:00[Europe/Kiev]","0.0","0.7"
+"Twitch test","Get request","SUCCESS","2021-05-19T18:47:33.094279+03:00[Europe/Kiev]","0.0","0.31"
