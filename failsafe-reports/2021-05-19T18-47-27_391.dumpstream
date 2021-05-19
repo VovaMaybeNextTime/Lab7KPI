@@ -1,0 +1,15 @@
+# Created at 2021-05-19T18:47:33.467
+WARNING: An illegal reflective access operation has occurred
+
+# Created at 2021-05-19T18:47:33.468
+WARNING: Illegal reflective access by com.google.gson.internal.reflect.UnsafeReflectionAccessor (file:/Users/vladimir/.m2/repository/com/google/code/gson/gson/2.8.6/gson-2.8.6.jar) to constructor java.lang.StackTraceElement()
+
+# Created at 2021-05-19T18:47:33.468
+WARNING: Please consider reporting this to the maintainers of com.google.gson.internal.reflect.UnsafeReflectionAccessor
+
+# Created at 2021-05-19T18:47:33.468
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+
+# Created at 2021-05-19T18:47:33.468
+WARNING: All illegal access operations will be denied in a future release
+
